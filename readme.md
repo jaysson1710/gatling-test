@@ -14,7 +14,7 @@ https://gatling.io/docs/gatling/tutorials/quickstart/
 ## configuracion de certificados
 https://gatling.io/docs/gatling/reference/current/http/recorder/
 
-## variables de estorno
+## variables de entorno
 
 la variable de entorno GATLING_HOME no se tiene q crear, la app la establece
 
